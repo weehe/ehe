@@ -1,4 +1,4 @@
-# ehe
+# EHE
 Easy home Ecosystem
 
 In addition to bitcoin, blockchain has been integrated into various fields and has been listed as one of the seven development applications. It is believed that blockchain will become a technology to completely transform the world. For real estate, blockchain has the potential to change the way we trade. Smart contracts will enable real estate contracts, escrow contracts, and property records (such as contracts) to be completed and distributed without the need for a title company or lawyer. Based on this background, Easy home Ecosystem came into being.
